@@ -9,4 +9,8 @@ describe ' string_first_last_characters' do
     string = string_first_last_characters('no')
     expect(string).to eq('type a word with more than 2 character')
   end
+  it 'take a string with more than 2 characters and return one'do
+    string = string_first_last_characters('big')
+    expect(string).to eq('i')
+  end
 end
