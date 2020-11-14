@@ -5,7 +5,7 @@ The program create a function that removes the first and last characters of a st
 
 Note: if Ruby is not already installed, you can find instructions here.
 
-git clone
+git clone https://github.com/ROCHAAL/String_first_last_character.git
 
 cd string_first_last_characters
 
