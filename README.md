@@ -6,8 +6,11 @@ The program create a function that removes the first and last characters of a st
 Note: if Ruby is not already installed, you can find instructions here.
 
 git clone
+
 cd string_first_last_characters
+
 bundle install
+
 ruby lib/string_first_last_characters
 ``
 
